@@ -3,7 +3,7 @@
 ## I'm Carolina Sepulveda 👋
 ### An Electronic Engineer from Argentina, passionate about tech, programming and art!
 
-- 👨‍💻 All of my projects are available at [www.carolinasepulveda.com.ar](www.carolinasepulveda.com.ar)
+- 👨‍💻 All of my projects are available at www.carolinasepulveda.com.ar
 
 - 📫 How to reach me **carosepulveda99@gmail.com**
 
